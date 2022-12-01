@@ -1,0 +1,8 @@
+[{
+    "learningRate": 0.01,
+    "batchSize": 8,
+    "momentum": 0.8,
+    "epochs": 1
+}]
+
+

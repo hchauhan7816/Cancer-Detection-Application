@@ -1,0 +1,10 @@
+Accuracy (Sklearn): 0.6585283146829434
+
+
+Confusion Matrix:
+[[ 767  733]
+ [ 274 1175]]
+
+
+
+Accuracy of the network on the test images: 65 %
